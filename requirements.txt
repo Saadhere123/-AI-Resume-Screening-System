@@ -1,0 +1,5 @@
+pip install streamlit
+pip install pdfplumber
+pip install scikit-learn
+pip install pandas
+pip install nltk
